@@ -27,7 +27,9 @@ The core of the Movescriptions protocol includes:
 * [movescriptions/movescriptions](https://github.com/movescriptions/movescriptions)
 * [mrc20 - Movescriptions mint site ](https://mrc20.fun)
 
-## Deployed information
+## Deployment Information
+
+* [Sui] PackageID: [0x830fe26674dc638af7c3d84030e2575f44a2bdc1baa1f4757cfe010a4b106b6a](https://suiexplorer.com/object/0x830fe26674dc638af7c3d84030e2575f44a2bdc1baa1f4757cfe010a4b106b6a)
 
 ## Reference
 

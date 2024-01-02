@@ -31,6 +31,12 @@ The core of the Movescriptions protocol includes:
 
 * [Sui] PackageID: [0x830fe26674dc638af7c3d84030e2575f44a2bdc1baa1f4757cfe010a4b106b6a](https://suiexplorer.com/object/0x830fe26674dc638af7c3d84030e2575f44a2bdc1baa1f4757cfe010a4b106b6a)
 
+## Links
+
+* [twitter @movescriptions](https://twitter.com/movescriptions)
+* [github movescriptions](https://github.com/movescriptions)
+* [telegram Movescription](https://t.me/Movescription)
+
 ## Reference
 
 * [ERC-3525 Semi-Fungible Token](https://eips.ethereum.org/EIPS/eip-3525)
